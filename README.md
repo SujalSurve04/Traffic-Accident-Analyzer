@@ -1,4 +1,4 @@
-# PRODIGY_DS_05
+
 # Traffic Accident Analysis
 
 This project analyzes traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualizations of accident hotspots and contributing factors are created using Python with Pandas, Matplotlib, and Seaborn.
